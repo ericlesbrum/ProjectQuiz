@@ -1,0 +1,1 @@
+public enum TypeOfStudyArea { Art, Sciences, Geography, History, Entertainment }
