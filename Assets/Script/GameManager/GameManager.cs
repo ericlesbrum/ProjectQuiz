@@ -34,6 +34,8 @@ public class GameManager : MonoBehaviour
     }
     public void LoadGame(string name)
     {
+        if (field.text == "")
+            return;
         SceneManager.LoadScene(name);
         PlayerName = field.text;
         canvas.SetActive(false);
