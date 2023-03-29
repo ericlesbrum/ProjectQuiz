@@ -1,8 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
+using Newtonsoft.Json;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+
+[System.Serializable]
+public class Questions
+{
+    List<Question> questions;
+}
 
 public class Gameplay : MonoBehaviour
 {
@@ -11,10 +19,11 @@ public class Gameplay : MonoBehaviour
     [SerializeField] int index, currentPrize, currentPlayerAnswer;
     [SerializeField] string playerName;
     [SerializeField] float[] percentAnswers = new float[4], percentSpecialistValue = new float[4];
+    [SerializeField] TextAsset textJson;
     [SerializeField] Question currentQuestion;
-    [SerializeField] List<StudyArea> studyAreas = new List<StudyArea>();
-    [SerializeField] Audience[] audiences;
-    [SerializeField] Specialist[] specialists = new Specialist[3];
+    [SerializeField] List<Question> questions;
+    [SerializeField] List<Audience> audiences = new List<Audience>();
+    [SerializeField] List<Specialist> specialists = new List<Specialist>();
     [SerializeField] Button[] helpButtons;
     [SerializeField] GameObject prizePrefab;
     [SerializeField] Transform prizeLocation;
@@ -25,12 +34,24 @@ public class Gameplay : MonoBehaviour
     [SerializeField] TextMeshProUGUI[] audiencePecent, specialistPercent;
     [SerializeField] Slider[] audienceSliders, specalistsSlider;
     private int jumpQuestion = 3, audienceCount = 2, indexAudience, indexSpecialist;
+
     private void Start()
     {
         playerName = GameManager.Instance.PlayerName;
         currentPrize = prizeValues[0];
         GameManager.Instance._Gameplay = this;
-        GameManager.Instance.Shuffle(studyAreas);
+
+        Debug.Log(JsonConvert.DeserializeObject<List<Questions>>(textJson.text));
+
+        GameManager.Instance.Shuffle(questions);
+        for (int i = 0; i < 50; i++)
+        {
+            audiences.Add(new Audience());
+        }
+        for (int i = 0; i < 3; i++)
+        {
+            specialists.Add(new Specialist());
+        }
     }
     public void GetQuestion()
     {
@@ -38,29 +59,28 @@ public class Gameplay : MonoBehaviour
             return;
         else
         {
-            currentQuestion = studyAreas[0].questions[0];
-            studyAreas[0].questions.Remove(studyAreas[0].questions[0]);
-            if (studyAreas[0].questions.Count == 0)
+            currentQuestion = questions[0];
+            questions.Remove(questions[0]);
+            if (questions.Count == 0)
             {
-                studyAreas.Remove(studyAreas[0]);
+                questions.Remove(questions[0]);
             }
             foreach (var item in audiences)
             {
-                item.GetAudienceResponse(currentQuestion, studyAreas[0].typeOfStudyArea);
+                item.GetAudienceResponse(currentQuestion, questions[0].typeOfStudyArea);
             }
             if (audienceCount > 0 && !helpButtons[1].interactable)
                 helpButtons[1].interactable = true;
             enunciationText.text = currentQuestion.enunciation;
             for (int i = 0; i < answersText.Length; i++)
             {
-                answersText[i].text = currentQuestion.answers[i].text;
+                answersText[i].text = currentQuestion.answers[i];
             }
             foreach (var item in specialists)
             {
-                item.GetSpecialistResponse(currentQuestion, studyAreas[0].typeOfStudyArea);
+                item.GetSpecialistResponse(currentQuestion, questions[0].typeOfStudyArea);
             }
             PrizeManipulation();
-            GameManager.Instance._Presenter.ReactionToQuestion(currentQuestion);
         }
     }
     public void PrizeManipulation()
@@ -130,7 +150,7 @@ public class Gameplay : MonoBehaviour
                 if (i == item.index)
                     temp[i]++;
             }
-            percentAnswers[i] = ((float)temp[i] / audiences.Length * 1.0f);
+            percentAnswers[i] = ((float)temp[i] / audiences.Count * 1.0f);
             //audiencePecent[i].text = percentAnswers[i].ToString("F1");
             StartCoroutine(SliderPercent(percentAnswers[i], audiencePecent[i], audienceSliders[i], 0));
         }
@@ -169,7 +189,7 @@ public class Gameplay : MonoBehaviour
     }
     public void CheckAnswer()
     {
-        if (currentQuestion.answers[currentPlayerAnswer].GetCorrect())
+        if (currentQuestion.answers[currentPlayerAnswer].Equals(currentQuestion.correct))
         {
             currentPrize = prizeValues[index];
             index++;

@@ -1,0 +1,1252 @@
+{
+  "questions": [
+    {
+      "enunciation": "Na arte, qual é o nome dado à técnica de pintura que utiliza apenas tons de cinza para criar a sensação de profundidade e volume?",
+      "answers": [
+        "A) Aquarela",
+        "B) Gravura",
+        "C) Tonsura",
+        "D) Grisalho"
+      ],
+      "correct": "D) Grisalho",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o maior órgão do corpo humano?",
+      "answers": [
+        "A) Pulmão",
+        "B) Coração",
+        "C) Pele",
+        "D) Fígado"
+      ],
+      "correct": "C) Pele",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o maior animal terrestre?",
+      "answers": [
+        "A) Elefante africano",
+        "B) Rinoceronte",
+        "C) Hipopótamo",
+        "D) Baleia-azul"
+      ],
+      "correct": "A) Elefante africano",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual foi o ano da Revolução Francesa?",
+      "answers": [
+        "A) 1789",
+        "B) 1812",
+        "C) 1867",
+        "D) 1756"
+      ],
+      "correct": "A) 1789",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do protagonista da série de livros 'Harry Potter', da escritora britânica J.K. Rowling?",
+      "answers": [
+        "A) Ronald Weasley",
+        "B) Hermione Granger",
+        "C) Alvo Dumbledore",
+        "D) Harry Potter"
+      ],
+      "correct": "D) Harry Potter",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do famoso quadro de Leonardo da Vinci que representa a figura de um homem nu com braços e pernas estendidos?",
+      "answers": [
+        "A) O Nascimento de Vênus",
+        "B) A Criação de Adão",
+        "C) A Última Ceia",
+        "D) O Homem Vitruviano"
+      ],
+      "correct": "D) O Homem Vitruviano",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é a fórmula química da água?",
+      "answers": [
+        "A) NaCl",
+        "B) H2O",
+        "C) CO2",
+        "D) CH4"
+      ],
+      "correct": "B) H2O",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é a capital do estado de Minas Gerais?",
+      "answers": [
+        "A) Belo Horizonte",
+        "B) São Paulo",
+        "C) Brasília",
+        "D) Salvador"
+      ],
+      "correct": "A) Belo Horizonte",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Em que país nasceu o líder da Revolução Cubana, Fidel Castro?",
+      "answers": [
+        "A) Cuba",
+        "B) México",
+        "C) Argentina",
+        "D) Cuba"
+      ],
+      "correct": "D) Cuba",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do diretor que dirigiu os filmes 'A Origem', 'Interestelar' e 'Dunkirk'?",
+      "answers": [
+        "A) Christopher Nolan",
+        "B) Quentin Tarantino",
+        "C) Steven Spielberg",
+        "D) Martin Scorsese"
+      ],
+      "correct": "A) Christopher Nolan",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do movimento artístico que surgiu na década de 1950 e é caracterizado pelo uso de objetos do cotidiano em obras de arte?",
+      "answers": [
+        "A) Pop art",
+        "B) Surrealismo",
+        "C) Impressionismo",
+        "D) Expressionismo"
+      ],
+      "correct": "A) Pop art",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da partícula subatômica com carga positiva?",
+      "answers": [
+        "A) Elétron",
+        "B) Próton",
+        "C) Nêutron",
+        "D) Fóton"
+      ],
+      "correct": "B) Próton",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do programa de televisão brasileiro que apresenta reportagens sobre curiosidades e fatos históricos?",
+      "answers": [
+        "A) Fantástico",
+        "B) Globo Repórter",
+        "C) Domingão do Faustão",
+        "D) Encontro com Fátima Bernardes"
+      ],
+      "correct": "B) Globo Repórter",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Em que ano aconteceu a Guerra do Paraguai?",
+      "answers": [
+        "A) 1864-1870",
+        "B) 1899-1902",
+        "C) 1914-1918",
+        "D) 1939-1945"
+      ],
+      "correct": "A) 1864-1870",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da escritora brasileira que escreveu o livro 'Quarto de Despejo'?",
+      "answers": [
+        "A) Clarice Lispector",
+        "B) Cecília Meireles",
+        "C) Rachel de Queiroz",
+        "D) Carolina Maria de Jesus"
+      ],
+      "correct": "D) Carolina Maria de Jesus",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Quem pintou a obra 'A Noite Estrelada'?",
+      "answers": [
+        "A) Pablo Picasso",
+        "B) Vincent van Gogh",
+        "C) Leonardo da Vinci",
+        "D) Claude Monet"
+      ],
+      "correct": "B) Vincent van Gogh",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da ciência que estuda os seres vivos?",
+      "answers": [
+        "A) Biologia",
+        "B) Química",
+        "C) Física",
+        "D) Matemática"
+      ],
+      "correct": "A) Biologia",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome da maior cordilheira do mundo?",
+      "answers": [
+        "A) Andes",
+        "B) Montanhas Rochosas",
+        "C) Himalaias",
+        "D) Pirineus"
+      ],
+      "correct": "C) Himalaias",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do grupo de rock britânico que é liderado pelo vocalista Mick Jagger?",
+      "answers": [
+        "A) The Rolling Stones",
+        "B) The Beatles",
+        "C) Led Zeppelin",
+        "D) Pink Floyd"
+      ],
+      "correct": "A) The Rolling Stones",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da revolução que aconteceu na Rússia em 1917 e resultou na criação do primeiro estado socialista do mundo?",
+      "answers": [
+        "A) Revolução Francesa",
+        "B) Revolução Industrial",
+        "C) Revolução Americana",
+        "D) Revolução Russa"
+      ],
+      "correct": "D) Revolução Russa",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da técnica utilizada para criar imagens em movimento a partir de uma sequência de fotos estáticas?",
+      "answers": [
+        "A) Animatografia",
+        "B) Stop-motion",
+        "C) Time-lapse",
+        "D) Efeito Bullet-time"
+      ],
+      "correct": "B) Stop-motion",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da partícula elementar que é responsável pela transmissão da força eletromagnética?",
+      "answers": [
+        "A) Elétron",
+        "B) Próton",
+        "C) Nêutron",
+        "D) Fóton"
+      ],
+      "correct": "D) Fóton",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do personagem principal do livro 'O Apanhador no Campo de Centeio', de J.D. Salinger?",
+      "answers": [
+        "A) Holden Caulfield",
+        "B) Jay Gatsby",
+        "C) Winston Smith",
+        "D) Bilbo Bolseiro"
+      ],
+      "correct": "A) Holden Caulfield",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do navegador português que foi o primeiro a chegar às Índias por mar, contornando o cabo da Boa Esperança?",
+      "answers": [
+        "A) Cristóvão Colombo",
+        "B) Vasco da Gama",
+        "C) Pedro Álvares Cabral",
+        "D) Fernão de Magalhães"
+      ],
+      "correct": "B) Vasco da Gama",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da empresa fundada por Steve Jobs, Steve Wozniak e Ronald Wayne em 1976?",
+      "answers": [
+        "A) Microsoft",
+        "B) Apple",
+        "C) Google",
+        "D) IBM"
+      ],
+      "correct": "B) Apple",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Quem é a autora do livro 'Harry Potter e a Pedra Filosofal'?",
+      "answers": [
+        "A) J.K. Rowling",
+        "B) Stephenie Meyer",
+        "C) Suzanne Collins",
+        "D) Veronica Roth"
+      ],
+      "correct": "A) J.K. Rowling",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da teoria científica que descreve a origem do universo a partir de uma grande explosão?",
+      "answers": [
+        "A) Teoria da Evolução",
+        "B) Teoria do Big Bang",
+        "C) Teoria da Relatividade",
+        "D) Teoria da Gravidade"
+      ],
+      "correct": "B) Teoria do Big Bang",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome da pintora mexicana conhecida por suas obras que retratam a cultura e a política do México?",
+      "answers": [
+        "A) Frida Kahlo",
+        "B) Georgia O'Keeffe",
+        "C) Mary Cassatt",
+        "D) Berthe Morisot"
+      ],
+      "correct": "A) Frida Kahlo",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do evento que marcou o início da Revolução Francesa em 1789?",
+      "answers": [
+        "A) Tomada da Bastilha",
+        "B) Queda da Monarquia",
+        "C) Guerra dos Cem Anos",
+        "D) Tratado de Versalhes"
+      ],
+      "correct": "A) Tomada da Bastilha",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do cantor americano conhecido como 'The King of Rock and Roll'?",
+      "answers": [
+        "A) Elvis Presley",
+        "B) Frank Sinatra",
+        "C) Michael Jackson",
+        "D) Bob Dylan"
+      ],
+      "correct": "A) Elvis Presley",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do físico que desenvolveu a teoria da relatividade?",
+      "answers": [
+        "A) Albert Einstein",
+        "B) Isaac Newton",
+        "C) Galileu Galilei",
+        "D) Nikola Tesla"
+      ],
+      "correct": "A) Albert Einstein",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome da peça teatral de William Shakespeare que conta a história de dois amantes de famílias rivais?",
+      "answers": [
+        "A) Romeu e Julieta",
+        "B) Hamlet",
+        "C) Otelo",
+        "D) Macbeth"
+      ],
+      "correct": "A) Romeu e Julieta",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do grupo de países que formam o G7?",
+      "answers": [
+        "A) Alemanha, Canadá, Estados Unidos, França, Itália, Japão e Reino Unido",
+        "B) Brasil, Rússia, Índia, China e África do Sul",
+        "C) Estados Unidos, China, Rússia, Japão e Reino Unido",
+        "D) Alemanha, França, Itália, Espanha, Portugal e Grécia"
+      ],
+      "correct": "A) Alemanha, Canadá, Estados Unidos, França, Itália, Japão e Reino Unido",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do ator que interpretou o personagem Severus Snape nos filmes de Harry Potter?",
+      "answers": [
+        "A) Alan Rickman",
+        "B) Daniel Radcliffe",
+        "C) Rupert Grint",
+        "D) Emma Watson"
+      ],
+      "correct": "A) Alan Rickman",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da batalha naval que aconteceu durante a Segunda Guerra Mundial e que foi decisiva para a vitória dos Aliados no Pacífico?",
+      "answers": [
+        "A) Batalha de Midway",
+        "B) Batalha de Iwo Jima",
+        "C) Batalha do Atlântico",
+        "D) Batalha de Okinawa"
+      ],
+      "correct": "A) Batalha de Midway",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do famoso pintor renascentista italiano que pintou a obra 'A Última Ceia'?",
+      "answers": [
+        "A) Leonardo da Vinci",
+        "B) Michelangelo",
+        "C) Rafael Sanzio",
+        "D) Sandro Botticelli"
+      ],
+      "correct": "A) Leonardo da Vinci",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do instrumento musical de sopro, geralmente feito de madeira, que é usado na música clássica e popular?",
+      "answers": [
+        "A) Flauta",
+        "B) Violão",
+        "C) Piano",
+        "D) Bateria"
+      ],
+      "correct": "A) Flauta",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do cientista italiano que desenvolveu o método científico moderno?",
+      "answers": [
+        "A) Galileu Galilei",
+        "B) Isaac Newton",
+        "C) Charles Darwin",
+        "D) Johannes Kepler"
+      ],
+      "correct": "A) Galileu Galilei",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do grupo de países que formam o Mercosul?",
+      "answers": [
+        "A) Brasil, Argentina, Uruguai e Paraguai",
+        "B) Estados Unidos, Canadá e México",
+        "C) Chile, Peru e Colômbia",
+        "D) França, Itália, Espanha e Portugal"
+      ],
+      "correct": "A) Brasil, Argentina, Uruguai e Paraguai",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do ator que interpretou o personagem Wolverine nos filmes da franquia X-Men?",
+      "answers": [
+        "A) Hugh Jackman",
+        "B) Ryan Reynolds",
+        "C) Christian Bale",
+        "D) Tom Hardy"
+      ],
+      "correct": "A) Hugh Jackman",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da revolta popular que ocorreu no Brasil em 1835, na província do Rio Grande do Sul, contra o governo imperial?",
+      "answers": [
+        "A) Revolução Farroupilha",
+        "B) Revolta dos Malês",
+        "C) Cabanagem",
+        "D) Balaiada"
+      ],
+      "correct": "A) Revolução Farroupilha",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Quem é o autor da obra 'Dom Casmurro'?",
+      "answers": [
+        "A) Machado de Assis",
+        "B) Euclides da Cunha",
+        "C) Lima Barreto",
+        "D) Carlos Drummond de Andrade"
+      ],
+      "correct": "A) Machado de Assis",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do instrumento musical de corda, que é usado em diversos estilos musicais, como rock, blues e jazz?",
+      "answers": [
+        "A) Guitarra",
+        "B) Saxofone",
+        "C) Trompete",
+        "D) Clarinete"
+      ],
+      "correct": "A) Guitarra",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do físico alemão que formulou a teoria da relatividade?",
+      "answers": [
+        "A) Albert Einstein",
+        "B) Isaac Newton",
+        "C) Galileu Galilei",
+        "D) Stephen Hawking"
+      ],
+      "correct": "A) Albert Einstein",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do país que é o maior produtor de petróleo do mundo?",
+      "answers": [
+        "A) Rússia",
+        "B) Arábia Saudita",
+        "C) Estados Unidos",
+        "D) China"
+      ],
+      "correct": "B) Arábia Saudita",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do ator que interpretou o personagem James Bond nos filmes '007'?",
+      "answers": [
+        "A) Sean Connery",
+        "B) Pierce Brosnan",
+        "C) Daniel Craig",
+        "D) Roger Moore"
+      ],
+      "correct": "A) Sean Connery",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do líder da Revolução Russa de 1917?",
+      "answers": [
+        "A) Vladimir Lenin",
+        "B) Josef Stalin",
+        "C) Leon Trotsky",
+        "D) Mikhail Gorbachev"
+      ],
+      "correct": "A) Vladimir Lenin",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do autor da obra 'Memórias Póstumas de Brás Cubas'?",
+      "answers": [
+        "A) Machado de Assis",
+        "B) Euclides da Cunha",
+        "C) Lima Barreto",
+        "D) Carlos Drummond de Andrade"
+      ],
+      "correct": "A) Machado de Assis",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do instrumento musical de percussão, que é comumente usado em orquestras?",
+      "answers": [
+        "A) Violino",
+        "B) Piano",
+        "C) Timpani",
+        "D) Trompa"
+      ],
+      "correct": "C) Timpani",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do primeiro ser humano a pisar na Lua?",
+      "answers": [
+        "A) Neil Armstrong",
+        "B) Buzz Aldrin",
+        "C) Yuri Gagarin",
+        "D) Alan Shepard"
+      ],
+      "correct": "A) Neil Armstrong",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome da personagem principal do livro 'O Diário de Anne Frank'?",
+      "answers": [
+        "A) Anne Frank",
+        "B) Margot Frank",
+        "C) Edith Frank",
+        "D) Peter van Daan"
+      ],
+      "correct": "A) Anne Frank",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da atriz que interpretou o papel de Hermione Granger nos filmes da saga 'Harry Potter'?",
+      "answers": [
+        "A) Emma Watson",
+        "B) Kristen Stewart",
+        "C) Dakota Fanning",
+        "D) Selena Gomez"
+      ],
+      "correct": "A) Emma Watson",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do cientista inglês que descobriu a gravidade?",
+      "answers": [
+        "A) Isaac Newton",
+        "B) Albert Einstein",
+        "C) Galileu Galilei",
+        "D) Stephen Hawking"
+      ],
+      "correct": "A) Isaac Newton",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do quadro famoso do pintor holandês Johannes Vermeer?",
+      "answers": [
+        "A) A Ronda Noturna",
+        "B) A Jovem de Pérola",
+        "C) Guernica",
+        "D) A Persistência da Memória"
+      ],
+      "correct": "B) A Jovem de Pérola",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da obra literária de George Orwell que descreve uma sociedade distópica em que o governo controla todos os aspectos da vida dos cidadãos?",
+      "answers": [
+        "A) Admirável Mundo Novo",
+        "B) 1984",
+        "C) Laranja Mecânica",
+        "D) Fahrenheit 451"
+      ],
+      "correct": "B) 1984",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do líder político sul-africano que lutou contra o regime do apartheid e se tornou o primeiro presidente negro do país?",
+      "answers": [
+        "A) Martin Luther King Jr.",
+        "B) Nelson Mandela",
+        "C) Malala Yousafzai",
+        "D) Mahatma Gandhi"
+      ],
+      "correct": "B) Nelson Mandela",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do filme de ficção científica de Stanley Kubrick que conta a história de uma expedição espacial que busca um monólito misterioso na Lua?",
+      "answers": [
+        "A) Blade Runner",
+        "B) Interestelar",
+        "C) 2001: Uma Odisseia no Espaço",
+        "D) Elysium"
+      ],
+      "correct": "C) 2001: Uma Odisseia no Espaço",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da teoria científica que propõe que todas as formas de vida na Terra compartilham um ancestral comum?",
+      "answers": [
+        "A) Criacionismo",
+        "B) Evolucionismo",
+        "C) Lamarckismo",
+        "D) Darwinismo"
+      ],
+      "correct": "D) Darwinismo",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do compositor alemão que é considerado um dos maiores da música erudita e é conhecido por suas obras para piano, como a Sonata ao Luar e a Sonata Patética?",
+      "answers": [
+        "A) Johann Sebastian Bach",
+        "B) Wolfgang Amadeus Mozart",
+        "C) Ludwig van Beethoven",
+        "D) Frédéric Chopin"
+      ],
+      "correct": "C) Ludwig van Beethoven",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do escritor brasileiro que é conhecido por suas crônicas e livros como 'O Alienista' e 'Memórias Póstumas de Brás Cubas'?",
+      "answers": [
+        "A) Machado de Assis",
+        "B) João Guimarães Rosa",
+        "C) Clarice Lispector",
+        "D) Carlos Drummond de Andrade"
+      ],
+      "correct": "A) Machado de Assis",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da maior floresta tropical do mundo, localizada principalmente no Brasil?",
+      "answers": [
+        "A) Floresta Amazônica",
+        "B) Floresta do Congo",
+        "C) Floresta de Borneo",
+        "D) Floresta de Madagascar"
+      ],
+      "correct": "A) Floresta Amazônica",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do líder soviético que sucedeu Josef Stalin e liderou a União Soviética durante a Guerra Fria?",
+      "answers": [
+        "A) Nikita Khrushchev",
+        "B) Vladimir Lenin",
+        "C) Leonid Brejnev",
+        "D) Mikhail Gorbachev"
+      ],
+      "correct": "A) Nikita Khrushchev",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do personagem principal da série de televisão 'Breaking Bad', que é um professor de química que se torna um traficante de drogas após descobrir que tem câncer?",
+      "answers": [
+        "A) Jesse Pinkman",
+        "B) Saul Goodman",
+        "C) Hank Schrader",
+        "D) Walter White"
+      ],
+      "correct": "D) Walter White",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da pintura famosa de Leonardo da Vinci que retrata uma figura humana masculina com braços e pernas esticados em um círculo e um quadrado?",
+      "answers": [
+        "A) A Última Ceia",
+        "B) A Mona Lisa",
+        "C) A Criação de Adão",
+        "D) O Homem Vitruviano"
+      ],
+      "correct": "D) O Homem Vitruviano",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do ator que interpreta o personagem Tony Stark (Homem de Ferro) nos filmes da Marvel?",
+      "answers": [
+        "A) Robert Downey Jr.",
+        "B) Chris Hemsworth",
+        "C) Tom Holland",
+        "D) Chris Evans"
+      ],
+      "correct": "A) Robert Downey Jr.",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da poetisa brasileira que escreveu o poema 'Sou uma mulher'?",
+      "answers": [
+        "A) Adélia Prado",
+        "B) Cecília Meireles",
+        "C) Cora Coralina",
+        "D) Hilda Hilst"
+      ],
+      "correct": "A) Adélia Prado",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do maior mamífero terrestre?",
+      "answers": [
+        "A) Elefante",
+        "B) Girafa",
+        "C) Hipopótamo",
+        "D) Rinoceronte"
+      ],
+      "correct": "A) Elefante",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Em que ano ocorreu a Revolução Francesa?",
+      "answers": [
+        "A) 1789",
+        "B) 1804",
+        "C) 1830",
+        "D) 1905"
+      ],
+      "correct": "A) 1789",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da banda de rock britânica que é conhecida por sucessos como 'Stairway to Heaven' e 'Kashmir'?",
+      "answers": [
+        "A) Led Zeppelin",
+        "B) Pink Floyd",
+        "C) The Beatles",
+        "D) Rolling Stones"
+      ],
+      "correct": "A) Led Zeppelin",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do poeta português autor do poema 'Mar Português'?",
+      "answers": [
+        "A) Fernando Pessoa",
+        "B) Camões",
+        "C) Antero de Quental",
+        "D) Sophia de Mello Breyner Andresen"
+      ],
+      "correct": "A) Fernando Pessoa",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do planeta mais próximo do Sol?",
+      "answers": [
+        "A) Mercúrio",
+        "B) Vênus",
+        "C) Marte",
+        "D) Terra"
+      ],
+      "correct": "A) Mercúrio",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome da atriz que interpretou a personagem Hermione nos filmes da série 'Harry Potter'?",
+      "answers": [
+        "A) Emma Stone",
+        "B) Emma Watson",
+        "C) Emma Thompson",
+        "D) Emma Roberts"
+      ],
+      "correct": "B) Emma Watson",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Em que ano foi fundada a cidade de São Paulo?",
+      "answers": [
+        "A) 1554",
+        "B) 1700",
+        "C) 1808",
+        "D) 1922"
+      ],
+      "correct": "A) 1554",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do filósofo alemão autor da obra 'Assim Falou Zaratustra'?",
+      "answers": [
+        "A) Friedrich Nietzsche",
+        "B) Immanuel Kant",
+        "C) Georg Wilhelm Friedrich Hegel",
+        "D) Arthur Schopenhauer"
+      ],
+      "correct": "A) Friedrich Nietzsche",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome da obra mais famosa de William Shakespeare?",
+      "answers": [
+        "A) Othello",
+        "B) Romeu e Julieta",
+        "C) Macbeth",
+        "D) Hamlet"
+      ],
+      "correct": "D) Hamlet",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome do primeiro homem a pisar na Lua?",
+      "answers": [
+        "A) Buzz Aldrin",
+        "B) Neil Armstrong",
+        "C) Michael Collins",
+        "D) Yuri Gagarin"
+      ],
+      "correct": "B) Neil Armstrong",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do autor do livro '1984'?",
+      "answers": [
+        "A) Aldous Huxley",
+        "B) George Orwell",
+        "C) Ray Bradbury",
+        "D) Isaac Asimov"
+      ],
+      "correct": "B) George Orwell",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Em que ano ocorreu o fim da Segunda Guerra Mundial?",
+      "answers": [
+        "A) 1945",
+        "B) 1914",
+        "C) 1940",
+        "D) 1939"
+      ],
+      "correct": "A) 1945",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Quem é o autor da obra 'A Divina Comédia'?",
+      "answers": [
+        "A) William Shakespeare",
+        "B) Dante Alighieri",
+        "C) Miguel de Cervantes",
+        "D) Johann Wolfgang von Goethe"
+      ],
+      "correct": "B) Dante Alighieri",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do personagem principal da obra 'O Apanhador no Campo de Centeio', de J. D. Salinger?",
+      "answers": [
+        "A) Holden Caulfield",
+        "B) Atticus Finch",
+        "C) Jay Gatsby",
+        "D) Santiago"
+      ],
+      "correct": "A) Holden Caulfield",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o maior planeta do sistema solar?",
+      "answers": [
+        "A) Saturno",
+        "B) Júpiter",
+        "C) Vênus",
+        "D) Urano"
+      ],
+      "correct": "B) Júpiter",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome da atriz que interpretou Hermione Granger nos filmes da saga Harry Potter?",
+      "answers": [
+        "A) Emma Watson",
+        "B) Emma Stone",
+        "C) Emma Roberts",
+        "D) Emma Thompson"
+      ],
+      "correct": "A) Emma Watson",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual foi o período da história brasileira em que ocorreu a Proclamação da República?",
+      "answers": [
+        "A) Império",
+        "B) Colônia",
+        "C) República Velha",
+        "D) Ditadura Militar"
+      ],
+      "correct": "C) República Velha",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é a capital do Canadá?",
+      "answers": [
+        "A) Vancouver",
+        "B) Montreal",
+        "C) Toronto",
+        "D) Ottawa"
+      ],
+      "correct": "D) Ottawa",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Quem é o autor do livro 'O Pequeno Príncipe'?",
+      "answers": [
+        "A) Antoine de Saint-Exupéry",
+        "B) Victor Hugo",
+        "C) Jules Verne",
+        "D) Gustave Flaubert"
+      ],
+      "correct": "A) Antoine de Saint-Exupéry",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é a capital do estado de São Paulo?",
+      "answers": [
+        "A) São Bernardo do Campo",
+        "B) São Caetano do Sul",
+        "C) São Paulo",
+        "D) Santo André"
+      ],
+      "correct": "C) São Paulo",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o nome do cientista que desenvolveu a teoria da relatividade?",
+      "answers": [
+        "A) Isaac Newton",
+        "B) Albert Einstein",
+        "C) Galileu Galilei",
+        "D) Charles Darwin"
+      ],
+      "correct": "B) Albert Einstein",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Em que ano aconteceu o primeiro desfile de Carnaval no Rio de Janeiro?",
+      "answers": [
+        "A) 1890",
+        "B) 1905",
+        "C) 1910",
+        "D) 1925"
+      ],
+      "correct": "B) 1905",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome do período da história do Brasil que ficou conhecido como 'Ciclo do Ouro'?",
+      "answers": [
+        "A) Colônia",
+        "B) Império",
+        "C) República Velha",
+        "D) Regime Militar"
+      ],
+      "correct": "A) Colônia",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome da personagem principal da obra 'Dom Casmurro', de Machado de Assis?",
+      "answers": [
+        "A) Capitu",
+        "B) Ana",
+        "C) Ema",
+        "D) Carolina"
+      ],
+      "correct": "A) Capitu",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é a capital do Canadá?",
+      "answers": [
+        "A) Toronto",
+        "B) Montreal",
+        "C) Ottawa",
+        "D) Vancouver"
+      ],
+      "correct": "C) Ottawa",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é a fórmula química da água?",
+      "answers": [
+        "A) H2SO4",
+        "B) H2O",
+        "C) CO2",
+        "D) NaCl"
+      ],
+      "correct": "B) H2O",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do ator que interpretou o personagem Harry Potter nos filmes da saga?",
+      "answers": [
+        "A) Daniel Radcliffe",
+        "B) Rupert Grint",
+        "C) Tom Felton",
+        "D) Emma Watson"
+      ],
+      "correct": "A) Daniel Radcliffe",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual foi o imperador responsável por acabar com o período do Regime Militar no Brasil?",
+      "answers": [
+        "A) Dom Pedro I",
+        "B) Dom Pedro II",
+        "C) Getúlio Vargas",
+        "D) Tancredo Neves"
+      ],
+      "correct": "B) Dom Pedro II",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Quem foi o pintor que criou a obra 'A Última Ceia'?",
+      "answers": [
+        "A) Michelangelo",
+        "B) Leonardo da Vinci",
+        "C) Rafael Sanzio",
+        "D) Sandro Botticelli"
+      ],
+      "correct": "B) Leonardo da Vinci",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    },
+    {
+      "enunciation": "Qual é o nome da maior cadeia de montanhas do mundo?",
+      "answers": [
+        "A) Montanhas Rochosas",
+        "B) Himalaias",
+        "C) Andes",
+        "D) Alpes"
+      ],
+      "correct": "B) Himalaias",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Conhecimentos Gerais"
+    },
+    {
+      "enunciation": "Qual é o processo de obtenção de energia que ocorre nas usinas nucleares?",
+      "answers": [
+        "A) Fusão nuclear",
+        "B) Fissão nuclear",
+        "C) Combustão",
+        "D) Eletroquímica"
+      ],
+      "correct": "B) Fissão nuclear",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual foi o primeiro filme da saga 'Star Wars' a ser lançado?",
+      "answers": [
+        "A) A Ameaça Fantasma",
+        "B) Uma Nova Esperança",
+        "C) O Império Contra-Ataca",
+        "D) O Retorno de Jedi"
+      ],
+      "correct": "B) Uma Nova Esperança",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual foi o presidente dos Estados Unidos responsável pela decisão de jogar as bombas atômicas em Hiroshima e Nagasaki?",
+      "answers": [
+        "A) Harry Truman",
+        "B) Franklin D. Roosevelt",
+        "C) Dwight D. Eisenhower",
+        "D) John F. Kennedy"
+      ],
+      "correct": "A) Harry Truman",
+      "TypeOfDifficulty": "Difícil",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do autor de 'Os Lusíadas'?",
+      "answers": [
+        "A) Fernando Pessoa",
+        "B) Luís Vaz de Camões",
+        "C) Eça de Queirós",
+        "D) José Saramago"
+      ],
+      "correct": "B) Luís Vaz de Camões",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Literatura"
+    },
+    {
+      "enunciation": "Qual é o nome da estrela mais próxima do sistema solar?",
+      "answers": [
+        "A) Sol",
+        "B) Próxima Centauri",
+        "C) Alfa Centauri",
+        "D) Betelgeuse"
+      ],
+      "correct": "B) Próxima Centauri",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Ciências"
+    },
+    {
+      "enunciation": "Qual é o nome do filme de Steven Spielberg que conta a história de Oskar Schindler?",
+      "answers": [
+        "A) A Lista de Schindler",
+        "B) A Cor Púrpura",
+        "C) Jurassic Park",
+        "D) E.T. - O Extraterrestre"
+      ],
+      "correct": "A) A Lista de Schindler",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "Entretenimento"
+    },
+    {
+      "enunciation": "Qual é o nome da cidade histórica localizada no estado de Minas Gerais, conhecida por suas igrejas barrocas?",
+      "answers": [
+        "A) Tiradentes",
+        "B) Ouro Preto",
+        "C) São João Del Rei",
+        "D) Mariana"
+      ],
+      "correct": "B) Ouro Preto",
+      "TypeOfDifficulty": "Easy",
+      "TypeOfStudyArea": "História"
+    },
+    {
+      "enunciation": "Qual é o nome do quadro mais famoso do artista holandês Vincent van Gogh?",
+      "answers": [
+        "A) A Noite Estrelada",
+        "B) Os Girassóis",
+        "C) Autorretrato com Chapéu de Palha",
+        "D) A Trigueira"
+      ],
+      "correct": "A) A Noite Estrelada",
+      "TypeOfDifficulty": "Medium",
+      "TypeOfStudyArea": "Artes"
+    }
+  ]
+}
