@@ -5,11 +5,12 @@ using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using Newtonsoft.Json;
 
 [System.Serializable]
-public class Questions
+public class Quiz
 {
-    List<Question> questions;
+    public List<Question> questions;
 }
 
 public class Gameplay : MonoBehaviour
@@ -40,10 +41,12 @@ public class Gameplay : MonoBehaviour
         playerName = GameManager.Instance.PlayerName;
         currentPrize = prizeValues[0];
         GameManager.Instance._Gameplay = this;
-
-        Debug.Log(JsonConvert.DeserializeObject<List<Questions>>(textJson.text));
+        string json = textJson.text;
+        Quiz quiz = JsonConvert.DeserializeObject<Quiz>(json);
+        questions = quiz.questions;
 
         GameManager.Instance.Shuffle(questions);
+
         for (int i = 0; i < 50; i++)
         {
             audiences.Add(new Audience());
@@ -52,6 +55,8 @@ public class Gameplay : MonoBehaviour
         {
             specialists.Add(new Specialist());
         }
+
+        GetQuestion();
     }
     public void GetQuestion()
     {

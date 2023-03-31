@@ -7,7 +7,7 @@ public class Question
     [TextArea]
     public string enunciation;
     [TextArea]
-    public string[] answers = new string[4];
+    public List<string> answers;
     public string correct;
     public string difficulty;
     public string typeOfStudyArea;    
@@ -15,7 +15,7 @@ public class Question
     public int GetCorrectAnswer()
     {
         int temp = 0;
-        for (int i = 0; i < answers.Length; i++)
+        for (int i = 0; i < answers.Count; i++)
         {
             if (answers[i].Equals(correct))
             {
