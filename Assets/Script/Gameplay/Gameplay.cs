@@ -28,16 +28,18 @@ public class Gameplay : MonoBehaviour
     [SerializeField] Button[] helpButtons;
     [SerializeField] GameObject prizePrefab;
     [SerializeField] Transform prizeLocation;
-    [SerializeField] TextMeshProUGUI enunciationText, stopMoneyText;
+    [SerializeField] TextMeshProUGUI enunciationText;
     [SerializeField] TextMeshProUGUI[] answersText;
     [SerializeField] GameObject checkAnswerScreen, correctScreen, victoryScreen, stopScreen, gameOverScreen, percentAudience, percentSpecialist;
     [SerializeField] Animator hud;
     [SerializeField] TextMeshProUGUI[] audiencePecent, specialistPercent;
     [SerializeField] Slider[] audienceSliders, specalistsSlider;
+    [SerializeField] TextMeshProUGUI victoryText, stopText, gameOverText;
     private int jumpQuestion = 3, audienceCount = 2, indexAudience, indexSpecialist;
 
     private void Start()
     {
+        GameManager.Instance.ChangeFont();
         playerName = GameManager.Instance.PlayerName;
         currentPrize = prizeValues[0];
         GameManager.Instance._Gameplay = this;
@@ -201,6 +203,7 @@ public class Gameplay : MonoBehaviour
             if (index >= MAX)
             {
                 victoryScreen.SetActive(true);
+                victoryText.text = $"Parabéns {playerName}! Você ganhou o prêmio total: {currentPrize}$";
                 return;
             }
             GetQuestion();
@@ -210,6 +213,7 @@ public class Gameplay : MonoBehaviour
         {
             gameOverScreen.SetActive(true);
             currentPrize /= 4;
+            gameOverText.text = $"Que pena {playerName}! Você errou, o seu o prêmio total é: {currentPrize}$";
         }
         hud.SetTrigger("Hide");
     }
@@ -273,10 +277,12 @@ public class Gameplay : MonoBehaviour
         if (index == 0)
             currentPrize = 0;
         currentPrize /= 2;
-        stopMoneyText.text = currentPrize.ToString() + "$";
+        stopText.text = $"Que pena {playerName}, você desistiu e seu prêmio é: {currentPrize}$";
     }
     public void ReloadGame()
     {
+        stopScreen.SetActive(false);
+        GameManager.Instance.PlayerName = "";
         GameManager.Instance.LoadGame("Start");
         GameManager.Instance.EnableButtons();
         GameManager.Instance._Canvas.SetActive(true);

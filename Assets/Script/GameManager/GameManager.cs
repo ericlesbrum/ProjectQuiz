@@ -10,11 +10,13 @@ public class GameManager : MonoBehaviour
     public string PlayerName { get { return playerName; } set { playerName = value; } }
     public Gameplay _Gameplay { get { return gameplay; } set { gameplay = value; } }
     public GameObject _Canvas { get { return canvas; } set { canvas = value; } }
+    public TMP_FontAsset font;
     [SerializeField] Button[] optionsButtons;
     [SerializeField] TMP_InputField field;
     [SerializeField] GameObject canvas;
     [SerializeField] string playerName;
     [SerializeField] Gameplay gameplay;
+    [SerializeField] AudioSource Click;
 
     public static GameManager Instance { get; private set; }
 
@@ -30,12 +32,37 @@ public class GameManager : MonoBehaviour
         }
         DontDestroyOnLoad(gameObject);
     }
+    private void Start()
+    {
+        ChangeFont();
+    }
+    public void ChangeFont()
+    {
+        foreach (var text in FindObjectsByType<TextMeshProUGUI>(FindObjectsSortMode.None))
+        {
+            text.font = font;
+            text.UpdateFontAsset();
+        }
+    }
     public void LoadGame(string name)
     {
-        if (field.text == "")
-            return;
+        switch (name)
+        {
+            case "Game":
+                if (field.text == "")
+                    return;
+                PlayerName = field.text;
+                field.text = "";
+                Click.gameObject.SetActive(false);
+                break;
+            case "Start":
+                Click.gameObject.SetActive(true);
+                PlayerName = "";
+                break;
+            default:
+                break;
+        }
         SceneManager.LoadScene(name);
-        PlayerName = field.text;
         canvas.SetActive(false);
     }
     public void DisableButtons()
