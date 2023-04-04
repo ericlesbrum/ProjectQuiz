@@ -50,7 +50,10 @@ public class GameManager : MonoBehaviour
         {
             case "Game":
                 if (field.text == "")
+                {
+                    EnableButtons();
                     return;
+                }
                 PlayerName = field.text;
                 field.text = "";
                 Click.gameObject.SetActive(false);

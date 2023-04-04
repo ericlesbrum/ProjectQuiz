@@ -517,16 +517,16 @@
       "TypeOfStudyArea": "Artes"
     },
     {
-      "enunciation": "Qual é o nome do físico alemão que formulou a teoria da relatividade?",
+      "enunciation": "Qual é o nome do cantor e compositor brasileiro que foi um dos fundadores da banda Legião Urbana?",
       "answers": [
-        "A) Albert Einstein",
-        "B) Isaac Newton",
-        "C) Galileu Galilei",
-        "D) Stephen Hawking"
+        "A) Renato Russo",
+        "B) Cazuza",
+        "C) Raul Seixas",
+        "D) Chico Buarque"
       ],
-      "correct": "A) Albert Einstein",
-      "TypeOfDifficulty": "Medium",
-      "TypeOfStudyArea": "Ciências"
+      "correct": "A) Renato Russo",
+      "TypeOfDifficulty": "Fácil",
+      "TypeOfStudyArea": "Música"
     },
     {
       "enunciation": "Qual é o nome do país que é o maior produtor de petróleo do mundo?",
@@ -1033,16 +1033,16 @@
       "TypeOfStudyArea": "Conhecimentos Gerais"
     },
     {
-      "enunciation": "Qual é o nome do cientista que desenvolveu a teoria da relatividade?",
+      "enunciation": "Qual é o nome do filme que ganhou o Oscar de Melhor Filme em 2021?",
       "answers": [
-        "A) Isaac Newton",
-        "B) Albert Einstein",
-        "C) Galileu Galilei",
-        "D) Charles Darwin"
+        "A) Nomadland",
+        "B) O Som do Silêncio",
+        "C) Os 7 de Chicago",
+        "D) Mank"
       ],
-      "correct": "B) Albert Einstein",
-      "TypeOfDifficulty": "Medium",
-      "TypeOfStudyArea": "Ciências"
+      "correct": "A) Nomadland",
+      "TypeOfDifficulty": "Fácil",
+      "TypeOfStudyArea": "Entretenimento"
     },
     {
       "enunciation": "Em que ano aconteceu o primeiro desfile de Carnaval no Rio de Janeiro?",
